@@ -1,12 +1,12 @@
-[^1]Name: Aman Bind
-Roll No.: 19100BTCSEMA05472
-Subject:Virtual and Augmented Reality
-subject Code: BTMACS-601
+Name: Aman Bind [^1]
+Roll No.: 19100BTCSEMA05472 [^1]
+Subject:Virtual and Augmented Reality [^1]
+subject Code: BTMACS-601 [^1]
 
 # Practical List
 1. [AR App using Template](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/ARTemplateApp)
 
-![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/ARTemplateApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.12.08.png) 
+![](https://raw.githubusercontent.com/amanbind007/AR-VR-Practical-and-Assignment/main/AR-VR%20Practical/ARTemplateApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.12.08.png) 
 
 
 
