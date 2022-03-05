@@ -1,5 +1,9 @@
+Name: Aman Bind
+Roll No.: 19100BTCSEMA05472
+Subject:Virtual and Augmented Reality
+subject Code: BTMACS-601
 
-#Practical List
+# Practical List
 1. [AR App using Template](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/ARTemplateApp)
 
 ![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/ARTemplateApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.12.08.png) 
@@ -50,7 +54,29 @@
 
 # Assignment
 
-1. []()
+1. [Create a single view app to facilitate it with AR example to how to add an object on the current view of camera](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Assignment/Assignment1AR)
+
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment1AR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.17.54.png)
+
+
+
+2. [Write a program for adding node in the AR App Program](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Assignment/Assignment2AR)
+
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment2AR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.18.44.png)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment2AR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.18.47.png)
+
+
+
+3. [Create a program for adding sphere in the position related to the current world view](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Assignment/Assignment3AR)
+
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment3AR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2010.47.29.png)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment3AR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2010.47.32.png)
+
+
+
+4. [Create a program for resetting the world orrigin in AR app](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Assignment/Assignment4AR)
+
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment4AR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.20.20.png)
 
 
 
