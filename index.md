@@ -1,4 +1,4 @@
-Name: Aman Bind
+[^1]Name: Aman Bind
 Roll No.: 19100BTCSEMA05472
 Subject:Virtual and Augmented Reality
 subject Code: BTMACS-601
