@@ -39,15 +39,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Practical List
 1. [AR App using Template](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/ARTemplateApp)
-  
-  ![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/ARTemplateApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.12.08.png)
-   
-   
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/ARTemplateApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.12.08.png) 
    
 2. [Single View App](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/SingleViewAppAR)
-   
-   ![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/SingleViewAppAR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.17.05.png)
-   
+  
    
  
 
