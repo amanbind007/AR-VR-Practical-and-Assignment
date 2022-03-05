@@ -1,7 +1,10 @@
-Name: Aman Bind [^1]
-Roll No.: 19100BTCSEMA05472 [^1]
-Subject:Virtual and Augmented Reality [^1]
-subject Code: BTMACS-601 [^1]
+Name: Aman Bind 
+
+Roll No.: 19100BTCSEMA05472
+
+Subject:Virtual and Augmented Reality
+
+Subject Code: BTMACS-601
 
 # Practical List
 1. [AR App using Template](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/ARTemplateApp)
@@ -12,13 +15,13 @@ subject Code: BTMACS-601 [^1]
 
 2. [Single View App](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/SingleViewAppAR)
 
-![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/SingleViewAppAR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.17.05.png)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/SingleViewAppAR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.17.05.png?raw=true)
 
 
 
 3. [Add Object Structure](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/BoxARApp)
 
-![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/BoxARApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.14.04.png)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/BoxARApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.14.04.png?raw=true)
 
 
 
