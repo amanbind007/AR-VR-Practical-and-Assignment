@@ -56,6 +56,41 @@ Subject Code: BTMACS-601
 ![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/MaterialAppAR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.14.59.png?raw=true)
 
 
+
+[8. Write a program using ARKit to use light temperature and intensity to modify the appearance of virtual objects](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/lightingApp)
+
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/lightingApp/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202022-03-22%20at%2000.27.34.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/lightingApp/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202022-03-22%20at%2000.27.40.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/lightingApp/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202022-03-22%20at%2000.27.49.png?raw=true)
+
+
+
+[9. Write a program to demonstrate various shapes in ARKit](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/AddVariousShapes)
+
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/AddVariousShapes/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-22%20at%2014.56.26.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/AddVariousShapes/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-22%20at%2014.56.44.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/AddVariousShapes/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-22%20at%2014.59.08.png?raw=true)
+
+
+
+[10. Write a program to create an object using varoius shapes in ARKit](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/houseArApp)
+
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/houseArApp/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(4th%20generation)%20-%202022-03-22%20at%2015.56.22.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/houseArApp/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(4th%20generation)%20-%202022-03-22%20at%2015.56.32.png?raw=true)
+
+
+
+[11. Write a program using ARKit to add new virtual object relative to existing virtual object](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/relativePositionARApp)
+
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/relativePositionARApp/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(4th%20generation)%20-%202022-03-22%20at%2016.28.28.png?raw=true)
+
+
+
+[12. Write a program using ARKit to display text in 3D](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/TextARApp)
+
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/TextARApp/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(4th%20generation)%20-%202022-03-22%20at%2016.30.59.png?raw=true)
+
+
 # Assignment
 
 [1. Create a single view app to facilitate it with AR example to how to add an object on the current view of camera](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Assignment/Assignment1AR)
