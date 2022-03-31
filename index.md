@@ -91,6 +91,13 @@ Subject Code: BTMACS-601
 ![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/TextARApp/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(4th%20generation)%20-%202022-03-22%20at%2016.30.59.png?raw=true)
 
 
+
+[13. Write a program using ARKit to rotate an object and add a relative node to it](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/RotatingObjectARApp)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/RotatingObjectARApp/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(5th%20generation)%20-%202022-03-31%20at%2018.52.41.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/RotatingObjectARApp/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(5th%20generation)%20-%202022-03-31%20at%2018.53.03.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/RotatingObjectARApp/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(5th%20generation)%20-%202022-03-31%20at%2019.04.18.png?raw=true)
+
+
 # Assignment
 
 [1. Create a single view app to facilitate it with AR example to how to add an object on the current view of camera](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Assignment/Assignment1AR)
