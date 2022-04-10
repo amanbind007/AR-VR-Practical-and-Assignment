@@ -100,19 +100,19 @@ Subject Code: BTMACS-601
 
 
 [14. Write a program to draw on the screen by determining location and rotation from the device](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/drawingAppAR)
-![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/drawingAppAR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2022.52.17.png)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/drawingAppAR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2022.52.17.png?raw=true)
 
 
 
 [15. Write a program to zoom on virtual object using pinch gesture recognizer](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/pinchGestureApp)
-![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/pinchGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.12.04.png)
-![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/pinchGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.14.21.png)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/pinchGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.12.04.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/pinchGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.14.21.png?raw=true)
 
 
 
 [16. Write a program to make the rotation on virtual object using rotation gesture recognizer](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/rotationGestureApp)
-![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/rotationGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.15.17.png)
-![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/rotationGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.15.28.png)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/rotationGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.15.17.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/rotationGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.15.28.png?raw=true)
 
 
 
@@ -144,6 +144,25 @@ Subject Code: BTMACS-601
 
 ![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment4AR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-03-05%20at%2001.20.20.png?raw=true)
 
+
+
+[5. Write a program to identify swipe gesture on virtual object (Working - User can swipe in any direction and a new node will genrate at random)](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Assignment/Assignment5AR)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment5AR/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(5th%20generation)%20-%202022-04-11%20at%2000.22.32.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment5AR/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(5th%20generation)%20-%202022-04-11%20at%2000.22.39.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment5AR/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(5th%20generation)%20-%202022-04-11%20at%2000.22.50.png?raw=true)
+
+
+
+[6. Write a program to make the rotation of  virtual object using gesture recognizer used for it (It is same as the Practical 16)](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/rotationGestureApp)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/rotationGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.15.17.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/rotationGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.15.28.png?raw=true)
+
+
+
+[7. Define an example for UISwipegestureRecognizer (It is same as the Assignment 5)](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Assignment/Assignment5AR)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment5AR/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(5th%20generation)%20-%202022-04-11%20at%2000.22.32.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment5AR/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(5th%20generation)%20-%202022-04-11%20at%2000.22.39.png?raw=true)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Assignment/Assignment5AR/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(5th%20generation)%20-%202022-04-11%20at%2000.22.50.png?raw=true)
 
 
    
