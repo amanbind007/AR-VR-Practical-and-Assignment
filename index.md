@@ -98,6 +98,26 @@ Subject Code: BTMACS-601
 ![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/RotatingObjectARApp/Simulator%20Screen%20Shot%20-%20iPad%20Air%20(5th%20generation)%20-%202022-03-31%20at%2019.04.18.png?raw=true)
 
 
+
+[14. Write a program to draw on the screen by determining location and rotation from the device](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/drawingAppAR)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/drawingAppAR/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2022.52.17.png)
+
+
+
+[15. Write a program to zoom on virtual object using pinch gesture recognizer](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/pinchGestureApp)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/pinchGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.12.04.png)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/pinchGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.14.21.png)
+
+
+
+[16. Write a program to make the rotation on virtual object using rotation gesture recognizer](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Practical/rotationGestureApp)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/rotationGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.15.17.png)
+![](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/blob/main/AR-VR%20Practical/rotationGestureApp/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-04-10%20at%2023.15.28.png)
+
+
+
+
+
 # Assignment
 
 [1. Create a single view app to facilitate it with AR example to how to add an object on the current view of camera](https://github.com/amanbind007/AR-VR-Practical-and-Assignment/tree/main/AR-VR%20Assignment/Assignment1AR)
